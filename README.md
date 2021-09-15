@@ -5,6 +5,12 @@ Nessa aula você irá aprender como criar um Consumer, entender o que sāo Commi
 
 Nesse repositório você encontra tanto o **Producer** quando o **Consumer** para testar, deixe sempre o Producer rodando para conseguir publicar as mensagens com êxito!
 
+### Links úteis que cito nos slides e na aula
++ [Confluent - Transactional Commits](https://www.confluent.io/blog/transactions-apache-kafka/)
++ [Doc do Spring for Kafka](https://spring.io/projects/spring-kafka)
++ [An Introduction to Kafka](https://dzone.com/articles/a-begineers-approach-to-quotkafkaquot)
++ [Apache Kafka](https://blog.geekhunter.com.br/apache-kafka/)
+
 ## Expert
 | [<img src="https://avatars.githubusercontent.com/u/42419543?v=4" width="75px;"/>](https://github.com/anabneri) |
 | :-: |
